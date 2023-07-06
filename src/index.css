@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.active{
+    @apply font-medium tracking-wide text-orange-500 transition-colors duration-200 hover:text-gray-500
+  }
+  
+  .default{
+    @apply font-medium tracking-wide text-gray-400 transition-colors duration-200 hover:text-gray-500
+  }

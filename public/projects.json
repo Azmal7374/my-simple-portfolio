@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "title": "Geometric Calculation",
+    "description": "Geometric calculations are mathematical computations that involve properties and relationships of various shapes and figures. These calculations are fundamental to fields such as engineering, architecture, physics, and computer graphics. Here are some common geometric calculations. Area: The area is the measure of the space enclosed by a two-dimensional shape. For example, the area of a rectangle is calculated by multiplying its length by its width.Perimeter: The perimeter is the total length of the boundary of a two-dimensional shape. It is calculated by adding the lengths of all the sides. For instance, the perimeter of a square is found by multiplying its side length by 4.Volume: Volume is the measure of the space occupied by a three-dimensional shape. It is calculated differently depending on the shape. For example, the volume of a cube is found by cubing its side length.Circumference: The circumference is the distance around the outer boundary of a circle. It is calculated by multiplying the diameter (or radius) by π (pi).Pythagorean Theorem: This theorem relates the sides of a right-angled triangle. It states that the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides.Similarity: Geometric similarity refers to two shapes that have the same shape but possibly different sizes. The ratio of corresponding lengths of the similar shapes remains constant.Trigonometry: Trigonometric functions such as sine, cosine, and tangent are used to calculate angles and side lengths in triangles.",
+    "tools": ["Html", "CSS", "JavaScript"],
+    "url": "https://endearing-bavarois-9aa474.netlify.app/?fbclid=IwAR3yGiR7VuJ3pTH_8ESHcm0qLlYvpNGtN7https://i.ibb.co/sRgm0W4/Screenshot-15.png8kqDB0k-k9_-mFIYzoaiqSqas",
+    "category": "javascript",
+    "date": "11-03-2022",
+    "image": [
+      "https://i.ibb.co/2NM8Rmf/Screenshot-9.png",
+      "https://i.ibb.co/sRgm0W4/Screenshot-15.png",
+      "https://i.ibb.co/41MvcFf/Screenshot-11.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Ai Universe Hub",
+    "description": "AI Universe Hub is a cutting-edge platform that serves as a centralized repository for Artificial Intelligence (AI) resources, tools, and knowledge. It provides a comprehensive collection of AI models, datasets, research papers, and tutorials, catering to the needs of AI practitioners, researchers, and enthusiasts. With its vast array of resources, AI Universe Hub offers a collaborative environment for learning, exploring, and advancing AI technologies. It fosters innovation, facilitates knowledge sharing, and empowers individuals and organizations to harness the power of AI in various domains. Whether you're a beginner or an experienced AI professional, AI Universe Hub is your gateway to the AI universe.",
+    "tools": ["Html", "CSS", "JavaScript"],
+    "url": "https://visionary-bombolone-f5f75e.netlify.app/?fbclid=IwAR0-Us7nUzmmmXnBnwAJwhWrsWIlZiCLmCXx953L-iVBhtzdFOktEjhBwx4",
+    "category": "javascript",
+    "date": "05-02-2021",
+    "image": [
+      "https://i.ibb.co/0B6wFNc/Screenshot-14.png",
+      "https://i.ibb.co/2sHcg3v/Screenshot-16.png",
+      "https://i.ibb.co/2kgQzcg/Screenshot-13.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "G3 Architects",
+    "description": "This project involves creating a personal portfolio website using HTML and CSS. The website serves as a showcase of your skills, projects, and achievements. It includes multiple sections such as an about me page, portfolio gallery, resume download, and contact information. The HTML structure provides a solid foundation for organizing the content, while CSS is used for styling and layout.Through this project, you can demonstrate your proficiency in HTML by employing semantic tags like <header>, <nav>, <section>, and <footer> to structure the website. CSS is utilized to design the layout, including customizing colors, fonts, and backgrounds. You can also apply responsive design techniques to ensure the website looks great on different devices.",
+    "tools": ["Html", "CSS"],
+    "url": "https://azmal7374.github.io/second-assignment/?fbclid=IwAR0cVP8gTQgyYbgeOg2IesL6xWHBdoXp0uP2a_bHi7q_cm-SL0Q03pEzR0g",
+    "category": "html",
+    "date": "25-06-2020",
+    "image": [
+      "https://i.ibb.co/41NMLRD/Screenshot-8.jpg",
+      "https://i.ibb.co/fdR2YHg/Screenshot-1.png",
+      "https://i.ibb.co/G2kYgd3/Screenshot-2.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "All Thinks",
+    "description": "This project involves creating a personal portfolio website using HTML and CSS. The website serves as a showcase of your skills, projects, and achievements. It includes multiple sections such as an about me page, portfolio gallery, resume download, and contact information. The HTML structure provides a solid foundation for organizing the content, while CSS is used for styling and layout.Through this project, you can demonstrate your proficiency in HTML by employing semantic tags like <header>, <nav>, <section>, and <footer> to structure the website. CSS is utilized to design the layout, including customizing colors, fonts, and backgrounds. You can also apply responsive design techniques to ensure the website looks great on different devices.",
+    "tools": ["Html", "CSS", "JavaScript"],
+    "url": "https://sprightly-croquembouche-668976.netlify.app/",
+    "category": "html",
+    "date": "12-04-2021",
+    "image": [
+      "https://i.ibb.co/bWj8tQx/Screenshot-3.png",
+      "https://i.ibb.co/prNcnVZ/Screenshot-5.png",
+      "https://i.ibb.co/rsL3tdR/Screenshot-4.png"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Quiz Hero",
+    "description": "Quiz Hero is an engaging and interactive online platform that offers a wide range of quizzes on various topics. With its user-friendly interface and diverse question formats, Quiz Hero provides an entertaining and educational experience for individuals of all ages. From general knowledge to specific subjects like science, history, and pop culture, Quiz Hero challenges users to test their knowledge and compete with friends or other players. With a vast collection of quizzes and regular updates, Quiz Hero keeps users engaged and motivated to enhance their knowledge while enjoying a fun quiz experience. Whether you're looking for a casual trivia game or a chance to prove your expertise, Quiz Hero is the go-to destination for quiz enthusiasts.",
+    "tools": ["Html", "CSS", "JavaScript"],
+    "url": "https://beamish-profiterole-817646.netlify.app/index.html?fbclid=IwAR1rnKGy9VKii7uhdekzdZ3JfTbZVIP67up0VF1SEMItAQAGkq2aDTvbHyw",
+    "category": "javascript",
+    "date": "02-02-2020",
+    "image": [
+      "https://i.ibb.co/V2MNBNz/Screenshot-17.png",
+      "https://i.ibb.co/Db42chg/Screenshot-18.png",
+      "https://i.ibb.co/pQSTc4t/Screenshot-19.png"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bookify",
+    "description": "Books are a uniquely portable magic. Books serve to show a man that those original thoughts of his aren’t very new after all. The man who does not read good books is no better than the man who can’t.",
+    "tools": ["Html", "CSS", "JavaScript", "React"],
+    "url": "https://warm-taffy-616819.netlify.app/",
+    "category": "react",
+    "date": "06-05-2021",
+    "image": [
+      "https://i.ibb.co/6R1cNkB/Screenshot-20.png",
+      "https://i.ibb.co/WzwLQJV/Screenshot-21.png",
+      "https://i.ibb.co/zbr9RrF/Screenshot-22.png"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Justice",
+    "description": "In an HTML and Bootstrap project, the focus is on creating a responsive and visually appealing website. HTML is used to structure the content and define the layout of web pages, while Bootstrap provides a framework of pre-built CSS and JavaScript components for easy styling and interactivity. By combining HTML and Bootstrap, developers can efficiently create a modern and mobile-friendly website that adapts to different screen sizes. Bootstrap's grid system, navigation menus, forms, and styling options enhance the overall design and user experience. The result is a professional and user-friendly website that is easy to develop and maintain.",
+    "tools": ["Html", "CSS"],
+    "url": "https://deft-croquembouche-1d12ec.netlify.app/",
+    "category": "html",
+    "date": "03-02-2020",
+    "image": ["https://i.ibb.co/5Y5Y0Wx/Screenshot-26.png", "https://i.ibb.co/yh7pZ6K/Screenshot-27.png", "https://i.ibb.co/Dr672Kr/Screenshot-28.png"]
+  },
+  {
+    "id": 8,
+    "title": "Knowledge Cafe",
+    "description": "In an HTML, Tailwind CSS, and JavaScript project, the focus is on building a dynamic web application that leverages local storage for data persistence. HTML is used for structure, while Tailwind CSS provides a utility-first approach for styling. JavaScript is utilized to handle user interactions, manipulate the DOM, and implement local storage functionality for storing and retrieving data on the user's browser. By combining these technologies, developers can create a responsive and visually appealing application that allows users to interact with data and seamlessly save and retrieve their information locally.",
+    "tools": ["Html", "CSS", "JavaScript"],
+    "url": "https://astounding-meringue-a191a0.netlify.app/",
+    "category": "javascript",
+    "date": "03-01-2023",
+    "image": [
+      "https://i.ibb.co/QYsf5P7/Screenshot-23.png",
+      "https://i.ibb.co/6BGk1cs/Screenshot-24.png",
+      "https://i.ibb.co/0chtsts/Screenshot-25.png"
+    ]
+  },
+
+  {
+    "id": 9,
+    "title": "JobBoard Website",
+    "description": "A job board project involves creating a platform where job seekers can find and apply for job listings, and employers can post job opportunities. The project typically involves building a user-friendly website with features such as job search functionality, filters, job listing details, application submission, and user profiles. The project utilizes technologies such as HTML, CSS, and JavaScript for front-end development, along with a back-end framework like Django or Ruby on Rails for managing job listings, user authentication, and database operations. The aim is to create a centralized hub for job seekers and employers to connect and facilitate the job application process efficiently.",
+    "tools": ["Html", "CSS", "JavaScript", "React"],
+    "url": "https://silly-tanuki-b1c27e.netlify.app/",
+    "category": "react",
+    "date": "09-12-2022",
+    "image": ["https://i.ibb.co/gT8k3Ym/Screenshot-29.png", "https://i.ibb.co/z210rP6/Screenshot-30.png", "https://i.ibb.co/Vm4KpR1/Screenshot-31.png"]
+  },
+
+  {
+    "id": 10,
+    "title": " Foddie Crush",
+    "description": "The HTML, Tailwind CSS, JavaScript, React, and Node.js project is a full-stack web application development endeavor. HTML is used to structure the web pages, while Tailwind CSS provides a utility-first approach to styling. JavaScript enables interactivity and DOM manipulation. React is utilized as a front-end JavaScript library for building dynamic user interfaces. Node.js powers the server-side, facilitating API creation and database operations. By combining these technologies, the project aims to deliver a responsive, visually appealing, and efficient web application with seamless client-server communication, enabling users to interact with dynamic content and perform various tasks.",
+    "tools": ["Html", "CSS","TailwindCss", "JavaScript","React","Rechart","NodeJs","ExpressJs","MongoDB"],
+    "url": "https://chef-recipe-hunter-clien-4a142.web.app/",
+    "category": "node",
+    "date": "02-05-2023",
+    "image": ["https://i.ibb.co/tQq5mZm/Screenshot-32.png", "https://i.ibb.co/0yN1J80/Screenshot-33.png", "https://i.ibb.co/N6QcK60/Screenshot-34.png"]
+  },
+
+  {
+    "id": 11,
+    "title": "Baby Kids Toys",
+    "description": "The HTML, Tailwind CSS, JavaScript, React, and Node.js project is a full-stack web application development endeavor. HTML is used to structure the web pages, while Tailwind CSS provides a utility-first approach to styling. JavaScript enables interactivity and DOM manipulation. React is utilized as a front-end JavaScript library for building dynamic user interfaces. Node.js powers the server-side, facilitating API creation and database operations. By combining these technologies, the project aims to deliver a responsive, visually appealing, and efficient web application with seamless client-server communication, enabling users to interact with dynamic content and perform various tasks.",
+    "tools": ["Html", "CSS","TailwindCss", "JavaScript","React", "AOS Animation","NodeJs","ExpressJs","MongoDB"],
+    "url": "https://toy-marketplace-client-16a3d.web.app/",
+    "category": "node",
+    "date": "04-03-2023",
+    "image": ["https://i.ibb.co/ZMGC5Cz/Screenshot-35.png", "https://i.ibb.co/mvFY1kP/Screenshot-36.png", "https://i.ibb.co/HpGmdH6/Screenshot-37.png"]
+  },
+
+  {
+    "id": 12,
+    "title": "Sports Academic",
+    "description": "The HTML, Tailwind CSS, JavaScript, React, and Node.js project is a full-stack web application development endeavor. HTML is used to structure the web pages, while Tailwind CSS provides a utility-first approach to styling. JavaScript enables interactivity and DOM manipulation. React is utilized as a front-end JavaScript library for building dynamic user interfaces. Node.js powers the server-side, facilitating API creation and database operations. By combining these technologies, the project aims to deliver a responsive, visually appealing, and efficient web application with seamless client-server communication, enabling users to interact with dynamic content and perform various tasks.",
+    "tools": ["Html", "CSS","TailwindCss", "JavaScript","React", "AOS Animation","Axois", "Tanstack Query", "JsonWebToken","NodeJs","ExpressJs","MongoDB"],
+    "url": "https://summer-camp-client-f5aea.web.app/",
+    "category": "node",
+    "date": "05-05-2023",
+    "image": ["https://i.ibb.co/pv5pdsZ/Screenshot-38.png", "https://i.ibb.co/gdZ5P9K/Screenshot-39.png", "https://i.ibb.co/5GZ7680/Screenshot-40.png"]
+  },
+
+  {
+    "id": 13,
+    "title": "Digital Agency",
+    "description": "This project involves creating a personal portfolio website using HTML and CSS. The website serves as a showcase of your skills, projects, and achievements. It includes multiple sections such as an about me page, portfolio gallery, resume download, and contact information. The HTML structure provides a solid foundation for organizing the content, while CSS is used for styling and layout.Through this project, you can demonstrate your proficiency in HTML by employing semantic tags like <header>, <nav>, <section>, and <footer> to structure the website. CSS is utilized to design the layout, including customizing colors, fonts, and backgrounds. You can also apply responsive design techniques to ensure the website looks great on different devices.",
+    "tools": ["Html", "CSS"],
+    "url": "https://azmal7374.github.io/agency-web/",
+    "category": "html",
+    "date": "10-04-2020",
+    "image": ["https://i.ibb.co/s1hNdTZ/Screenshot-41.png", "https://i.ibb.co/tMTKpVs/Screenshot-42.png", "https://i.ibb.co/rvx784Z/Screenshot-43.png"]
+  },
+
+  {
+    "id": 14,
+    "title": "Dontate Today",
+    "description": "This project involves creating a personal portfolio website using HTML and CSS. The website serves as a showcase of your skills, projects, and achievements. It includes multiple sections such as an about me page, portfolio gallery, resume download, and contact information. The HTML structure provides a solid foundation for organizing the content, while CSS is used for styling and layout.Through this project, you can demonstrate your proficiency in HTML by employing semantic tags like <header>, <nav>, <section>, and <footer> to structure the website. CSS is utilized to design the layout, including customizing colors, fonts, and backgrounds. You can also apply responsive design techniques to ensure the website looks great on different devices.",
+    "tools": ["Html", "CSS"],
+    "url": "https://azmal7374.github.io/donate-practice/",
+    "category": "html",
+    "date": "08-03-2020",
+    "image": ["https://i.ibb.co/5rxdQ2p/Screenshot-44.png", "https://i.ibb.co/CMmJzJ9/Screenshot-45.png", "https://i.ibb.co/hX1941J/Screenshot-46.png"]
+  },
+
+  {
+    "id": 15,
+    "title": "Adda Ghor",
+    "description": "The HTML, Tailwind CSS, JavaScript, React, and Node.js project is a full-stack web application development endeavor. HTML is used to structure the web pages, while Tailwind CSS provides a utility-first approach to styling. JavaScript enables interactivity and DOM manipulation. React is utilized as a front-end JavaScript library for building dynamic user interfaces. Node.js powers the server-side, facilitating API creation and database operations. By combining these technologies, the project aims to deliver a responsive, visually appealing, and efficient web application with seamless client-server communication, enabling users to interact with dynamic content and perform various tasks.",
+    "tools": ["Html", "CSS","TailwindCss", "JavaScript","React", "AOS Animation","Axois", "Tanstack Query", "JsonWebToken","NodeJs","ExpressJs","MongoDB"],
+    "url": "https://bistro-boss-client-58add.web.app/",
+    "category": "node",
+    "date": "08-03-2023",
+    "image": ["https://i.ibb.co/cwTrLnN/Screenshot-47.png", "https://i.ibb.co/jZSCfGt/Screenshot-48.png", "https://i.ibb.co/6nDRkW7/Screenshot-49.png"]
+  }
+]
